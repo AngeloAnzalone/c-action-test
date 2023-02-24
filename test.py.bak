@@ -1,7 +1,7 @@
 import os, subprocess
 
 # Settings 
-TEST_DIR = "."
+TEST_DIR = "/tests"
 CODE_FILE = "main.c"
 COMPILER_TIMEOUT = 10.0     #sec
 RUN_TIMEOUT = 10.0
